@@ -33,11 +33,6 @@ switch(op){
 
 
 
-
-
-
-
-
 //npm config set strict-ssl --global
 //npm install readline-sync
 //export NODE_OPTIONS="--max-old-space-size=8192"export NODE_OPTIONS="--max-old-space-size=8192"
