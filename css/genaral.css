@@ -10,20 +10,17 @@ div{
     display: inline-block;
 }
 
-#logo{
-    width: 800px;
-    background-color: #0093F5;
-}
-
-#logon{
+   
+.logon{
     width: 300px;
     background-color: #F5F5F5;
+
 }
 .home{
     justify-content:center;
     justify-items: center;
     
-    background-color:black
+    background-color:#0093F5
 }
 
 
